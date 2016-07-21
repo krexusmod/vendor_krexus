@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
     KrexusOTA \
     Launcher3 \
     LiveWallpapersPicker \
+    masquerade \
     Stk \
     WallpaperPicker
 
